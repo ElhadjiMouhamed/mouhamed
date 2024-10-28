@@ -1,0 +1,6 @@
+q = input('Фамилия имя')
+e=input('сколько вам лет?')
+a=input('Где вы живете?')
+print(q)
+print(e)
+print(a)
